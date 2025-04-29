@@ -1,0 +1,1 @@
+start /B uvicorn api:app & python -m streamlit run .\ui.py
